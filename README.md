@@ -10,5 +10,4 @@
 - Fluent in Korean, Basic English
 
 ## Link
-Blog
-https://velog.io/@baecheese
+Blog - https://velog.io/@baecheese
