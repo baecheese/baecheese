@@ -9,3 +9,5 @@
 ### Language
 - Fluent in Korean, Basic English
 
+## Connect
+- jiyoung.m.bae@gmail.com
