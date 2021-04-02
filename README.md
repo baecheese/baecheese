@@ -1,6 +1,6 @@
 # 🐈 baecheese : iOS developer
 
-!()[https://img.shields.io/github/followers/baecheese?style=social]
+![](https://img.shields.io/github/followers/baecheese?style=social)
 
 안녕하세요. iOS 개발을 하는 배치즈 입니다. 
 평소에는 제로콜라를 마시며 고양이 사진을 모읍니다. 
